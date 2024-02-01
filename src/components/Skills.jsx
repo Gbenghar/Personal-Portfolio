@@ -39,7 +39,7 @@ const Skills = () => {
                 As a Junior Frontend Developer, I have gained valuable
                 experience and skills in the use of various Javascript libraries
                 and frameworks. I build smooth and interactive web applications
-                as well as mobile applications (Android/IOS). I implement te use
+                as well as mobile applications (Android/IOS). I implement the use
                 of complementing frameworks and libraries to build simple and
                 complex applications.
               </p>
