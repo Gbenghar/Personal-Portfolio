@@ -62,7 +62,7 @@ const Skills = () => {
                 </div>
                 <div className="item">
                   <img src={meter2} alt="meterImg" />
-                  <h5>Realtor</h5>
+                  <h5>Real Estate</h5>
                 </div>
               </Carousel>
             </div>
