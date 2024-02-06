@@ -17,7 +17,7 @@ const Footer = () => {
           </Col>
           <Col sm={6} className="text-center text-sm-end">
             <div className="social-icon">
-              <a href="https://linkedin.com/in/gbenga-olatunji">
+              <a href="https://linkedin.com/in/gbenga-olatunji-6180812a6">
                 <img src={navIcon1} alt="linkedin" />
               </a>
               <a href="https://github.com/Gbenghar">
