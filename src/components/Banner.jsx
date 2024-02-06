@@ -77,8 +77,8 @@ const Banner = () => {
                   </h1>
                   <p>
                     <ArrowRightCircle size={25} color="#392547"/> A self-taught Frontend developer with experience in using
-                    libraries and <br/> &nbsp; &nbsp; &nbsp; frameworks like JavaScript, ReactJs, NextJs, <br/>
-                    Redux, WordPress, ReactNative,... <br/>
+                    libraries and <br/> &nbsp; &nbsp; &nbsp; frameworks like JavaScript, ReactJs, NextJs,
+                    Redux, ReactNative,... <br/>
                     <ArrowRightCircle size={25} color="#392547"/> A forex trader, financial market analyst, and financial investor.
                   </p>{" "}
                   <button onClick={() => console.log("connect")}>
