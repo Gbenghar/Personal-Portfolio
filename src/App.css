@@ -424,7 +424,6 @@ nav.navbar .navbar-toggler[aria-expanded="true"] .navbar-toggler-icon {
   border-radius: 30px;
   overflow: hidden;
   margin-bottom: 24px;
-  cursor: grab;
 }
 .proj-imgbx::before {
   content: "";
@@ -437,7 +436,6 @@ nav.navbar .navbar-toggler[aria-expanded="true"] .navbar-toggler-icon {
 }
 .proj-imgbx:hover::before {
   height: 100%;
-  cursor: grab;
 }
 .proj-txtx {
   position: absolute;
