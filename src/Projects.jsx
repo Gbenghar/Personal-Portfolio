@@ -67,7 +67,7 @@ const Projects = () => {
                   {({ isVisible }) =>
                   <div className={isVisible ? "animate__animated animate__fadeIn": ""}>
                     <h2>Latest Projects</h2>
-                    <p>Highlighted below are some of my latest projects which include ReactJs Projects, NextJs Projects, and a host of others where I incorporated the use of a wide range of tools and libraries in creating functional, modern, sleek, and responsive websites and web apps  </p>
+                    <p>Highlighted below are some of my latest projects which include ReactJs Projects, NextJs Projects, and a host of others where I incorporated the use of a wide range of tools and libraries in creating functional, modern, sleek, and responsive websites and web apps.  </p>
                     <Tab.Container id="projects-tabs" defaultActiveKey="first">
                       <Nav variant="pills" className="nav-pills mb-5 justify-content-center align-items-center" id="pills-tab">
                         <Nav.Item>
