@@ -17,42 +17,42 @@ const Projects = () => {
     const projects = [
         {
             title:"Bank App",
-            description: "A modern Bank web app created with react that has the modern feel and responsiveness to different devices.",
+            description: "A modern Bank web app created with React that has the modern feel and responsiveness to different devices.",
             imgUrl: BankApp,
             link: "https://hoobank-app-five.vercel.app/",
         },
         {
-            title:"Netflix Clone",
-            description: "A cloned app of netflix with movies fetched from an API",
+            title: "Netflix Clone",
+            description: "A cloned app of Netflix with movies fetched from an API",
             imgUrl: NetflixClone,
             link:"https://netflix-clone-ten-psi.vercel.app/",
         },
         {
-            title:"Food Order App",
-            description: "An app built to get orders from customers as inputs with their peferable location for these meals to be delivered comfortably to them without stepping out.",
+            title: "Food Order App",
+            description: "An app built to get orders from customers as inputs with their preferred location for these meals to be delivered comfortably to them without stepping out.",
             imgUrl: FoodOrder,
             link:"https://food-order-app-dusky-tau.vercel.app/",
         },
         {
-            title:"GPT3 AI",
+            title: "GPT3 AI",
             description: "A modern and responsive website with an appealing interface.",
-            imgUrl:Gpt3,
+            imgUrl: Gpt3,
             link:"https://gpt-3-website-six.vercel.app/",
         },
         {
-            title:"Investment Calculator",
-            description: "This app was built to calculate and derive the possible return that might be expexted on a certain invested sum over a particular period of time with the prevailing rate.",
-            imgUrl:Calculator,
+            title: "Investment Calculator",
+            description: "This app was built to calculate and derive the possible return that might be expected on a certain invested sum over a particular period with the prevailing rate.",
+            imgUrl: Calculator,
             link:"https://w8v49y-3000.csb.app/",
         },
         {
-            title:"Rest Countries",
+            title: "Rest Countries",
             description: "A responsive website optimized to provide details about countries which is fetched from a rest-country API and countries can also be searched based on different filters.",
             imgUrl: RestCountries,
             link:"https://rest-api-countries-wine.vercel.app/",
         },
         {
-            title:"Bank Landing Page",
+            title: "Bank Landing Page",
             description: "This is a simple landing page built with the use of SASS and Javascript to create a modern and responsive website.",
             imgUrl: BankWebsite
         }
@@ -67,7 +67,7 @@ const Projects = () => {
                   {({ isVisible }) =>
                   <div className={isVisible ? "animate__animated animate__fadeIn": ""}>
                     <h2>Latest Projects</h2>
-                    <p>Highlighted below are some of my latest projects which includes ReactJs Projects, NextJs Projects, and a host of otherss where I incorporated the use of wide range of tools and libraries in creating functional, modern, sleek and responsive website and webapps  </p>
+                    <p>Highlighted below are some of my latest projects which include ReactJs Projects, NextJs Projects, and a host of others where I incorporated the use of a wide range of tools and libraries in creating functional, modern, sleek, and responsive websites and web apps  </p>
                     <Tab.Container id="projects-tabs" defaultActiveKey="first">
                       <Nav variant="pills" className="nav-pills mb-5 justify-content-center align-items-center" id="pills-tab">
                         <Nav.Item>
